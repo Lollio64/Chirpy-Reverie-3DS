@@ -1,0 +1,12 @@
+# Ignore some VSCode and build files
+.vscode/
+build
+
+# Binaries
+*.sb3
+*.cia
+*.3dsx
+*.elf
+*.smdh
+*.bnr
+*.bcmdl
